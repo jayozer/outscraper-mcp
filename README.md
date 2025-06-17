@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jayozer-outscraper-mcp-badge.png)](https://mseep.ai/app/jayozer-outscraper-mcp)
+
 # Outscraper MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@jayozer/outscraper-mcp)](https://smithery.ai/server/@jayozer/outscraper-mcp)
