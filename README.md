@@ -6,6 +6,10 @@
 
 A streamlined Model Context Protocol (MCP) server that provides access to Outscraper's Google Maps data extraction services. This server implements **2 essential tools** for extracting Google Maps data with high reliability.
 
+<a href="https://glama.ai/mcp/servers/@jayozer/outscraper-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@jayozer/outscraper-mcp/badge" alt="Outscraper Server MCP server" />
+</a>
+
 ## 🚀 Features
 
 ### Google Maps Data Extraction
