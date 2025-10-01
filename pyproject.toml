@@ -12,7 +12,9 @@ keywords = ["mcp", "outscraper", "google-maps", "reviews", "search", "data-extra
 dependencies = [
     "outscraper>=5.9.1",
     "fastmcp>=2.8.0",
-    "python-dotenv>=1.1.0"
+    "python-dotenv>=1.1.0",
+    "uvicorn>=0.30.0",
+    "starlette>=0.37.0",
 ]
 
 [project.optional-dependencies]

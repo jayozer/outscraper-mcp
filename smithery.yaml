@@ -1,0 +1,5 @@
+# Smithery configuration file: https://smithery.ai/docs/build/project-config
+# This file configures how the Outscraper MCP Server is deployed on Smithery
+
+startCommand:
+  type: "http"
